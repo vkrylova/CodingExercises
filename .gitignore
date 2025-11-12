@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/CodingExercises.iml
+/modules.xml
+/profiles_settings.xml
+/Project_Default.xml
+/vcs.xml
+/misc.xml

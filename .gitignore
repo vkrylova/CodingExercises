@@ -3,9 +3,9 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/CodingExercises.iml
-/modules.xml
-/profiles_settings.xml
-/Project_Default.xml
-/vcs.xml
-/misc.xml
+/.idea/CodingExercises.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/misc.xml

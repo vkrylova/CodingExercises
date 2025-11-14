@@ -1,6 +1,6 @@
 import pytest
 
-from algorithms.searching.permute_palindrome import can_form_palindrome
+from algorithms.searching.can_form_palindrome import can_form_palindrome
 
 palindrome_test_cases = [
     ("civic", True),
